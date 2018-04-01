@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "349547397523",
+    "firebase_url": "https://desfariaditian1202150081modul6.firebaseio.com",
+    "project_id": "desfariaditian1202150081modul6",
+    "storage_bucket": "desfariaditian1202150081modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349547397523:android:6cffc61c8e2ca6dd",
+        "android_client_info": {
+          "package_name": "com.easy.android.arfiaari_1202152158_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349547397523-j3a1hcdgb8v7phcmvv561rakj0nu3va8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easy.android.arfiaari_1202152158_modul6",
+            "certificate_hash": "ca00ccef6e6ba1e96f617a9180b4b4a84a893a89"
+          }
+        },
+        {
+          "client_id": "349547397523-5trgktgroitoi24uq51iln088q3emsvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnY3VZM6fUhiPzCBk3V4O2MIqjT9itYsY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349547397523-5trgktgroitoi24uq51iln088q3emsvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349547397523:android:35c3eaf5715306a6",
+        "android_client_info": {
+          "package_name": "com.easy.android.desfariaditian_1202150081_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349547397523-7qj8tiljqcscigbo2c2phahbkkv9kqvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easy.android.desfariaditian_1202150081_modul6",
+            "certificate_hash": "ca00ccef6e6ba1e96f617a9180b4b4a84a893a89"
+          }
+        },
+        {
+          "client_id": "349547397523-5trgktgroitoi24uq51iln088q3emsvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnY3VZM6fUhiPzCBk3V4O2MIqjT9itYsY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349547397523-5trgktgroitoi24uq51iln088q3emsvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
